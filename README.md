@@ -1,2 +1,3 @@
-# Qua_Firework
-Fivem için havaifişek scripti
+# Qua Firework
+
+Fivem için Etkinliklerde Kullanabileceğiniz Bir Havai fişek Scripti
